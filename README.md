@@ -36,9 +36,9 @@ horoscope-react (folder)
 └── yarn.lock
 ```
 ## Project-gif
-
+![horoscope-scss-react](https://user-images.githubusercontent.com/102467587/223817604-3976864b-988a-4efa-a41e-9849d4c336e9.gif)
 ## Project-link
-
+https://horoscope-scss-react.vercel.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS
