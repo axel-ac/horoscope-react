@@ -1,4 +1,4 @@
-# Horoscope
+# Horoscope -Scss-
 ## Description
 Project aims to create a Horoscope.
 ## Project Skeleton
